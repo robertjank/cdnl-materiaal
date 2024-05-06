@@ -48,7 +48,7 @@ Waar: [https://coderdojo-nijmegen.nl/instructies/](https://coderdojo-nijmegen.nl
 Wat:
 - Arduino
 - HTML en JavaScript
-- Löve2D
+- L&ouml;ve2D
 - Machine Learning
 - mBlock
 - micro:bit
@@ -79,4 +79,3 @@ Wat:
 - Python
 - Scratch
 - ScratchJr
-
