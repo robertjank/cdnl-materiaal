@@ -7,7 +7,7 @@ Welke:
 - CoderDojo Nijmegen
 - CoderDojo Oss
 - CoderDojo Tilburg
-
+<br/>
 
 Wie: **CoderDojo Arnhem**
 
@@ -19,7 +19,7 @@ Wat:
 - micro:bit
 - Python
 - Scratch
-
+<br/>
 
 Wie: **CoderDojo KopGroep**
 
@@ -32,7 +32,7 @@ Wat:
 - micro:bit
 - Scratch
 - TinkerCAD
-
+<br/>
 
 Wie: **CoderDojo Leiden**
 
@@ -50,7 +50,7 @@ Wat:
 - Scratch
 - Sonic Pi
 - Unity
-
+<br/>
 
 Wie: **CoderDojo Nijmegen**
 
@@ -68,7 +68,7 @@ Wat:
 - Processing
 - Python
 - Scratch
-
+<br/>
 
 Wie: **CoderDojo Oss**
 
@@ -76,7 +76,7 @@ Waar: [https://github.com/coderdojo-oss](https://github.com/coderdojo-oss)
 
 Wat:
 - Spigot
-
+<br/>
 
 Wie: **CoderDojo Tilburg**
 
