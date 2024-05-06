@@ -8,8 +8,11 @@ Welke:
 - CoderDojo Oss
 - CoderDojo Tilburg
 
+
 Wie: **CoderDojo Arnhem**
+
 Waar: [https://coderdojo-arnhem.github.io/materiaal/](https://coderdojo-arnhem.github.io/materiaal/)
+
 Wat:
 - HTML/CSS/JavaScript
 - Makey Makey
@@ -17,8 +20,11 @@ Wat:
 - Python
 - Scratch
 
+
 Wie: **CoderDojo KopGroep**
+
 Waar: [https://www.coderdojo-kopgroep.nl/opdrachten/](https://www.coderdojo-kopgroep.nl/opdrachten/)
+
 Wat:
 - GDevelop
 - HTML & CSS
@@ -27,11 +33,13 @@ Wat:
 - Scratch
 - TinkerCAD
 
+
 Wie: **CoderDojo Leiden**
+
 Waar:
 - [https://coderdojo-leiden.nl/materiaal](https://coderdojo-leiden.nl/materiaal)
 - [https://github.com/coderdojo-leiden](https://github.com/coderdojo-leiden)
-- [https://coderdojo-leiden.github.io/](https://coderdojo-leiden.github.io/)
+
 Wat:
 - HTML/CSS
 - JavaScript
@@ -43,8 +51,11 @@ Wat:
 - Sonic Pi
 - Unity
 
+
 Wie: **CoderDojo Nijmegen**
+
 Waar: [https://coderdojo-nijmegen.nl/instructies/](https://coderdojo-nijmegen.nl/instructies/)
+
 Wat:
 - Arduino
 - HTML en JavaScript
@@ -58,13 +69,19 @@ Wat:
 - Python
 - Scratch
 
+
 Wie: **CoderDojo Oss**
+
 Waar: [https://github.com/coderdojo-oss](https://github.com/coderdojo-oss)
+
 Wat:
 - Spigot
 
+
 Wie: **CoderDojo Tilburg**
+
 Waar: [https://code013.nl/materiaal/](https://code013.nl/materiaal/)
+
 Wat:
 - App Inventor
 - Arduino
